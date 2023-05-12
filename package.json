@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+git@github.com:byronwanbl/markdown-it-katex.git"
+        "url": "git@github.com:byronwanbl/markdown-it-katex.git"
     },
     "keywords": [
         "markdown",
@@ -19,7 +19,7 @@
         "markdown-it-plugin",
         "markdown-it"
     ],
-    "author": "Abreto Fu",
+    "author": "Abreto Fu (Modified By ByronWan <byronwan@outlook.com>)",
     "license": "MIT",
     "dependencies": {
         "katex": "^0.16.7"
